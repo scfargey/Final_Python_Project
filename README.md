@@ -6,7 +6,7 @@ My goals in this project are to start understanding how to work with APIs as wel
 ## Process
 ### process data from APIs into dataframes and then CSV files. L
 ### Merge the two datasets and then join with the city-bikes data for one large table
-###do some xploratory analysis on the data
+###do some exploratory analysis on the data
 ###try and create a regression model that makes sense
 
 ## Results
